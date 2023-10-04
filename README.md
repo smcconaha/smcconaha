@@ -5,7 +5,7 @@
 </div>-->
  
  ## Skills
-Git, HTML/CSS,
-Javascript, Bootstrap, React,
+C, C#
+Javascript, Bootstrap, React, HTML/CSS
 Python, SQL, Django
 Agile Development, Object Oriented Programming (OOP)
